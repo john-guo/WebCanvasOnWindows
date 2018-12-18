@@ -19,3 +19,12 @@ As default the application will open index.html in same folder, you can change t
 
 You can set debug config to true to enable a browser window. This window cannot debug your js code but can load other html file that contains canvas to test.
 
+3 demo html5 in the project/web folder. 
+
+The live2d demo showes how to canvas track the mouse globally.
+
+The threejs demo showes how to use this with threejs.
+
+The last demo showes how to control the window in html.
+
+Copy them into exe folder, run it and enjoy.
