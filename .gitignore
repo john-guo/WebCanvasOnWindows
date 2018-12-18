@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/WpfGecko/v15
+/packages
+/src/.vs/WpfGecko/v15/Server/sqlite3
+/src/bin/Debug
+/src/obj/Debug
