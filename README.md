@@ -1,7 +1,7 @@
  WebCanvasOnWindows
 display web canvas on windows screen
 
-This project can display any web canvas in a transparent form. So you can use any canvas technology on your screen in windows environment. Even if a canvas than has alpha channel you can see an irregular window on your screen. And also it provides some tricks so that the web can control the window,track the mouse, etc. 
+This project can display any web canvas in a transparent form. So you can use any canvas technology on your screen in windows environment. Even if a canvas that has alpha channel you can see an irregular window on your screen. And also it provides some tricks so that the web can control the window,track the mouse, etc. 
 
 [Some Details]
 
