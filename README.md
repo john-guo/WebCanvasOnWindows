@@ -13,3 +13,9 @@ In manual mode, you must use the winapp.js(in the project) to do "explicit rende
 
 The application will auto determine the render mode. If your html file used winapp.js, the render mode will be the manual mode.
 
+[More Details]
+
+As default the application will open index.html in same folder, you can change this in config file(WpfGecko.exe.config), and also the xpath locating the canvas is in it.
+
+You can set debug config to true to enable a browser window. This window cannot debug your js code but can load other html file that contains canvas to test.
+
