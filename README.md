@@ -27,4 +27,4 @@ The threejs demo showes how to use this with threejs.
 
 The last demo showes how to control the window in html.
 
-Copy them into exe folder, run it and enjoy.
+Use VS2017 to Build the project, copy demo into the exe folder, run it and enjoy.
