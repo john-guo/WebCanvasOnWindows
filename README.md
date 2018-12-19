@@ -89,10 +89,14 @@ threejs展示了如何运用threejs
    ### win对象 ####
    
    属性
-   `id` 唯一id
+   
+   `id` 
+   唯一id
 
    事件
-   `dblclick` 浮动窗口被双击。
+   
+   `dblclick` 
+   浮动窗口被双击。
    
    `mousemove` 
    鼠标移动事件（非窗口，而是全屏），事件参数为{x:横坐标，y:纵坐标}
@@ -107,6 +111,7 @@ threejs展示了如何运用threejs
    窗口透明度改变通知，事件参数为{opacity:不透明度0-1}
    
    方法
+   
    `render(canvasElement)`
    绘制方法，把目标canvasElement画到浮动窗口上
    
