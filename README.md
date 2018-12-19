@@ -131,4 +131,5 @@ threejs展示了如何运用threejs
 ## 最后 ##
 在自己写的canvas页面的时候，推荐可先用firefox浏览器对页面进行调试，因为本工具不带js调试功能，只会在exe同目录输出js日志文件console.log。
 
-目前暂时没提供编译后的执行文件包，只提供了完整项目，可以先用vs2017编译，然后把例子文件及相关目录复制到exe所在目录就能看到演示效果。
+[下载包](https://github.com/john-guo/WebCanvasOnWindows/releases/download/0.0.1/wpfgecko.zip) 
+此为测试用，配置文件已改为默认打开live2d-demo\index.html
